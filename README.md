@@ -1,2 +1,1 @@
 # Dostluk-trenine
-merhaba
